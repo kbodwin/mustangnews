@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # mustangnews
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.com/kbodwin/mustangnews.svg?branch=master)](https://travis-ci.com/kbodwin/mustangnews)
 <!-- badges: end -->
 
 The purpose of the mustangnews package is to assist The Hill,
