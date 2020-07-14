@@ -21,7 +21,7 @@ Description: The purpose of the mustangnews package is to assist The Hill,
   and line charts. In hopes to support online stories as well as to print ones,
   this package also includes functions that can easily create interactive
   choropleths (colored maps) at both the state and county level.
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
